@@ -224,9 +224,9 @@ https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Cartoon_Network
 http://78.108.251.7/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="Kids🍭🎯🎉",Motu Patlu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="KIDS",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="https://uplo_logo.png" group-title="Kids🍭",Doraemon
+#EXTINF:-1 tvg-logo="https://uplo_logo.png" group-title="KIDS",Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
@@ -1326,5 +1326,6 @@ https://tv9live.cdn.runn.tv/title-News9_Non_SSAI/v1/vglive-sk-791223/main.m3u8
 https://newsnation.cdn.runn.tv/nnnational/index.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/TV/thumbnail/41a67ed0-e6ce-42f5-8b3a-e77ce5488927.png" group-title="RUNN TV INDIA",NEWS STATE UP/UK
 https://newsnation.cdn.runn.tv/nnup/index.m3u8
+
 
 
